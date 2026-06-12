@@ -1,16 +1,32 @@
-## Hi there 👋
+# Kevin Ramirez
 
-<!--
-**MexpressoBean/MexpressoBean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Frisco, TX. I build practical software systems, internal tools, automations, and AI-powered workflows that help teams move faster and operate with less manual overhead.
 
-Here are some ideas to get you started:
+From 2020 to 2025, I worked at Zendesk as a Software Engineer, where I gained experience building and supporting production software in a customer-focused environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Focus On
+
+- Building reliable web applications and internal tools
+- Designing AI-assisted workflows for real business processes
+- Automating repetitive operational work
+- Integrating APIs, services, and data sources
+- Using technical judgment to turn vague problems into working software
+
+## Technical Areas
+
+- TypeScript / JavaScript
+- React / Next.js
+- Node.js
+- API integrations
+- CLI tools and automation
+- AI-assisted development and workflow design
+- C#, Ruby, Java, and Python when useful
+
+## How I Work
+
+I care about clear communication, maintainable code, useful automation, and shipping software that solves the actual business problem. I’m especially interested in combining traditional software engineering with AI tools to build faster, smarter workflows.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/kevin-ramirez-b37326183/
+- GitHub: https://github.com/MexpressoBean
