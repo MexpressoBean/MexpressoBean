@@ -20,7 +20,8 @@ From 2020 to 2025, I worked at Zendesk as a Software Engineer, where I gained ex
 - API integrations
 - CLI tools and automation
 - AI-assisted development and workflow design
-- C#, Ruby, Java, and Python when useful
+- Codex / Claude Code
+- C#, Ruby, Java, Rust, and Python when useful
 
 ## How I Work
 
