@@ -2,7 +2,7 @@
 
 Software engineer based in Frisco, TX. I build practical software systems, internal tools, automations, and AI-powered workflows that help teams move faster and operate with less manual overhead.
 
-From 2020 to 2025, I worked at Zendesk as a Software Engineer, where I gained experience building and supporting production software in a customer-focused environment.
+From 2020 to 2025, I worked at [Zendesk](https://www.zendesk.com/) as a Software Engineer, where I gained experience building and supporting production software in a customer-focused environment.
 
 ## What I Focus On
 
